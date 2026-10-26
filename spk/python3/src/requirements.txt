@@ -16,7 +16,7 @@ zope.interface==4.7.1
 ## Pure-python via spksrc.wheel.mk
 pyopenssl==19.1.0
 six==1.14.0
-virtualenv==20.0.5
+virtualenv==21.14.13
 # virtualenv dependencies
 appdirs==1.4.3
 filelock==3.0.12
