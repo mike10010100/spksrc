@@ -43,7 +43,7 @@ packaging==24.0
 #platformdirs==4.9.6                   ==> python314 (virtualenv dependency)
 portend==3.2.1
 prometheus_client==0.25.0
-pyasn1==0.6.3
+pyasn1==0.6.5
 pycparser==3.0
 pygments==2.20.0
 pyopenssl==26.2.0
