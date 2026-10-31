@@ -27,4 +27,4 @@ subliminal==2.7.1
 tomlkit==0.15.1
 trakit==0.3.0
 typing_extensions==4.16.0
-urllib3==2.7.0
+urllib3==2.8.0
