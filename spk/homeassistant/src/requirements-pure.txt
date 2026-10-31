@@ -76,7 +76,7 @@ pycognito==2024.5.1
 pycountry==24.6.1
 pycparser==3.0
 pygments==2.21.0
-pyjwt==2.13.0
+pyjwt==2.15.0
 pyopenssl==26.2.0
 pyrfc3339==2.1.0
 PyRIC==0.1.6.3
