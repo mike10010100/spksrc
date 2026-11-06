@@ -44,7 +44,7 @@ kodipydent_alt==2022.9.3
 mako==1.4.3
 markdown2==2.5.5
 new_rtorrent_python==1.0.1a0
-oauthlib==4.0.0
+oauthlib==4.0.1
 packaging==26.3
 #pip==25.0.1                          ==> python312
 #platformdirs==4.12.2                 ==> python312 (virtualenv dependency)
